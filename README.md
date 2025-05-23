@@ -5,7 +5,7 @@
 1. Clone this repository and navigate to the Crypto-LLaVA folder:
 
 ```
-git clone https://github.com/sdoubleoj/Crypto-LLaVA
+git clone https://github.com/sdoubleoj/Crypto-LLaVA.git
 cd Crypto-LLaVA
 ```
 
@@ -18,3 +18,7 @@ conda activate llava
 pip install --upgrade pip
 pip install -e ".[train]"
 ```
+
+## Dataset
+
+https://huggingface.co/datasets/sujeongh/crypto-instruction
