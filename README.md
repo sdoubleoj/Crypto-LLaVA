@@ -21,4 +21,10 @@ pip install -e ".[train]"
 
 ## Dataset
 
+- text dataset
+
 https://huggingface.co/datasets/sujeongh/crypto-instruction
+
+- image dataset
+
+https://huggingface.co/datasets/sujeongh/crypto-candlechart
